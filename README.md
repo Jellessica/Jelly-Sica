@@ -1,2 +1,2 @@
 # Jelly-Sica
-I wanna know more!
+Hey! This is Jelly-Sica. I'm a newbie, but I wanna know more!
